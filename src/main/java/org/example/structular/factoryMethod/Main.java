@@ -1,6 +1,6 @@
 package org.example.structular.factoryMethod;
 
-public class Runner {
+public class Main {
     public static void main(String[] args) {
 
         ShopSelector shopSelector = new ShopSelector();
