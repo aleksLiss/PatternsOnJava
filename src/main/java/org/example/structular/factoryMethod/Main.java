@@ -9,5 +9,6 @@ public class Main {
         shop.startOfWork();
         shop.sailProduct();
         shop.endOfWork();
+
     }
 }
