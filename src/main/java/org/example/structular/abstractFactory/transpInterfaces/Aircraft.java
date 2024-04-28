@@ -1,2 +1,5 @@
-package org.example.structular.abstractFactory.transpInterfaces;public interface Aircraft {
+package org.example.structular.abstractFactory.transpInterfaces;
+
+public interface Aircraft {
+    void fly();
 }
