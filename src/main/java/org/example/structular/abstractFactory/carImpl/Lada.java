@@ -1,4 +1,4 @@
-package org.example.structular.abstractFactory.transpImpl;
+package org.example.structular.abstractFactory.carImpl;
 
 import org.example.structular.abstractFactory.transpInterfaces.Car;
 
